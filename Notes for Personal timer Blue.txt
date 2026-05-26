@@ -1,0 +1,3 @@
+Just a simple timer that can be edited later
+A personal timer custom look
+Potential to add motivational quotes at end?
