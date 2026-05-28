@@ -1,0 +1,63 @@
+.lobster-two-regular {
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lobster-two-bold {
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.lobster-two-regular-italic {
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.lobster-two-bold-italic {
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    min-height: 100vh;
+    background-image: url(./Media/Cyber\ 1.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    font-family: "Lobster Two", cursive;
+    font-size: 70px;
+    text-decoration-color: purple;
+}
+
+* {
+     font-family: "Lobster Two", cursive;
+}
+.timer-app {
+    padding: 5px;
+}
+
+#display {
+    
+  color: aqua;
+  font-size: 30px;
+  
+}
+
+button {
+    cursor: pointer;
+}
+
+.controls {
+    display: flex;
+    gap: 10px;
+}
+
